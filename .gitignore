@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.env
+*.log
+data/raw/
+models/*.pkl
+outputs/
+.DS_Store
+PROJECT_INTERVIEW_GUIDE.md

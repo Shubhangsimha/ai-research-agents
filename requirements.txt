@@ -1,0 +1,13 @@
+# Project-specific requirements for AI Research Agents
+torch>=1.9.0
+transformers>=4.21.0
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+pandas>=1.3.0
+streamlit>=1.20.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
